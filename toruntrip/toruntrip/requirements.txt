@@ -1,0 +1,9 @@
+asgiref==3.5.2
+Django==4.0.5
+GDAL>=2.2.4
+pip==22.1.2
+psycopg2-binary==2.9.3
+setuptools==58.1.0
+sqlparse==0.4.2
+tzdata==2022.1
+wheel==0.37.1
